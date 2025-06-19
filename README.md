@@ -64,7 +64,7 @@ To view the Power BI dashboard:
 
 1. Download and install **Power BI Desktop** from [powerbi.microsoft.com](https://powerbi.microsoft.com/).
 2. Clone or download this repository.
-3. Open the file `dashboard.pbx` using Power BI Desktop.
+3. Open the file `Visualization work.pbix` using Power BI Desktop.
 4. Explore filters, visuals, and insights interactively.
 
 ---
